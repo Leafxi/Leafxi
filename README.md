@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/Java-9999FF?style=flat-squar&logo-Java&logoColor=white"/>
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
