@@ -1,6 +1,6 @@
 👋 Hi there <br>
 
-:+1: Skills
+:+1: Skills <br>
 Language & Platforms<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo-Python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Java-9999FF?style=flat-squar&logo-Java&logoColor=white"/> 
@@ -11,6 +11,7 @@ Language & Platforms<br>
 Tools <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo-Spring&logoColor=balck"/> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo-Spring Boot&logoColor=balck"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
