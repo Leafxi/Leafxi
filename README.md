@@ -6,7 +6,8 @@ Language & Platforms<br>
 <img src="https://img.shields.io/badge/Java-9999FF?style=flat-squar&logo-Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kotlin-352A71?style=flat-squar&logo-Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-squar&logo-React&logoColor=black"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo-MySQL&logoColor=black"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo-MySQL&logoColor=black"/> <br>
+
 Tools <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo-Spring&logoColor=balck"/> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo-Spring Boot&logoColor=balck"/>
