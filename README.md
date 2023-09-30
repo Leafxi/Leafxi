@@ -10,8 +10,8 @@ Language & Platforms<br>
 
 Tools <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo-Spring&logoColor=balck"/> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo-Spring Boot&logoColor=balck"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo-Spring Boot&logoColor=balck"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/>
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
