@@ -13,7 +13,7 @@ Tools <br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo-Spring Boot&logoColor=balck"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/>
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leafxi&show_icon=true&theme=radical)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leafxi&show_icon=true&theme=tokyonight)
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
