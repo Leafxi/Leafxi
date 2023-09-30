@@ -1,10 +1,13 @@
-👋 ### Hi there <br>
+👋 Hi there <br>
 
 :+1: Skills
-Language & Platforms
+Language & Platforms<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo-Python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Java-9999FF?style=flat-squar&logo-Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kotlin-352A71?style=flat-squar&logo-Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-squar&logo-React&logoColor=black"/>
+
+Tools <br>
 
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
