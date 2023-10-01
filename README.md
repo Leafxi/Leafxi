@@ -2,7 +2,7 @@
 <hr>
 
 :+1: Skills <br>
-<hr>
+
 << Language >><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo-Python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Java-9999FF?style=flat-squar&logo-Java&logoColor=white"/> 
