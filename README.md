@@ -1,19 +1,27 @@
 👋 Hi there <br>
 
 :+1: Skills <br>
-Language & Platforms<br>
+<< Language >><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo-Python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Java-9999FF?style=flat-squar&logo-Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kotlin-352A71?style=flat-squar&logo-Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-squar&logo-React&logoColor=black"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo-MySQL&logoColor=black"/> <br>
+<img src="https://img.shields.io/badge/Kotlin-352A71?style=flat-squar&logo-Kotlin&logoColor=white"/> <br>
 
-Tools <br>
+<< Other Skill >><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-squar&logo-React&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo-Spring&logoColor=balck"/> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo-Spring Boot&logoColor=balck"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squar&logo-Spring Boot&logoColor=balck"/> <br>
+
+<< DB >><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo-MySQL&logoColor=black"/> 
+
+<< Tools >> <br>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-squar&logo-Visual Studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-squar&logo-Visual Studio Code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-squar&logo-GitHub&logoColor=white"/> 
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leafxi&show_icon=true&theme=tokyonight)
+
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
