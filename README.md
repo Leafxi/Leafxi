@@ -1,14 +1,15 @@
 <hr>
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=75BDE0&height=150&section=header&fontSize=25&animation=fadeIn&text=백엔드%20개발자%20신현서입니다.%20&fontColor=2029)<br>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=75BDE0&height=150&section=header&fontSize=25&animation=fadeIn&text=Well%20Come%20My%20GitHub%20😊&fontColor=2029)<br>
 </div>
 
 <hr>
 👋 Hi there <br>
 <hr>
 
-:+1: Skills <br>
+<div align=center>
+  🛠 Skills 🛠<br>
 
 Language <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo-Python&logoColor=black"/> 
@@ -31,10 +32,14 @@ Tools<br>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="64" height="64"
 style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64"
 style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" /></div>
+</div>
 <hr><br>
 
+<div align=center>
+  
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leafxi&show_icon=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leafxi&layout=donut&theme=tokyonight)
+</div>
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
