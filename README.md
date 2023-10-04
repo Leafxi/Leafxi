@@ -14,7 +14,7 @@
 <hr>
 
 <div align=center>
-  🛠 Skills 🛠<br>
+  🛠 Skills 🛠<br><br>
 
 Language <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo-Python&logoColor=black"/> 
