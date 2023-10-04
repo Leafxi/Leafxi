@@ -23,10 +23,7 @@ Tools<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-squar&logo-GitHub&logoColor=white"/> 
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leafxi&show_icon=true&theme=tokyonight)
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leafxi&layout=donut&theme=tokyonight)
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
