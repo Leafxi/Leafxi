@@ -16,7 +16,7 @@ Other Skill <br>
 DB<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo-MySQL&logoColor=black"/> 
 
-Tools<br><br>
+Tools<br>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-squar&logo-Visual Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-squar&logo-Visual Studio Code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/> 
