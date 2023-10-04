@@ -1,3 +1,10 @@
+<hr>
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=75BDE0&height=150&section=header&fontSize=25&animation=fadeIn&text=백엔드%20개발자%20신현서입니다.%20&fontColor=f7f5f5)<br>
+</div>
+
+<hr>
 👋 Hi there <br>
 <hr>
 
