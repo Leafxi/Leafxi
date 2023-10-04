@@ -7,6 +7,9 @@
 <hr>
 <div align=center>
 👋 Hi there <br>
+  
+:star:[Blog](https://solv-end.tistory.com/)<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeafxi&count_bg=%2381BCFF&title_bg=%238EFFF6&icon=checkmarx.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <hr>
 
