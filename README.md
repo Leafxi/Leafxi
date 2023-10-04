@@ -5,7 +5,9 @@
 </div>
 
 <hr>
+<div align=center>
 👋 Hi there <br>
+</div>
 <hr>
 
 <div align=center>
