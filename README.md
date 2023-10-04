@@ -24,6 +24,9 @@ Tools<br>
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leafxi&show_icon=true&theme=tokyonight)
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 <!--
 **Leafxi/Leafxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
