@@ -27,8 +27,9 @@ Tools<br>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-squar&logo-Visual Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-squar&logo-Visual Studio Code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-squar&logo-Git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-squar&logo-GitHub&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-squar&logo-GitHub&logoColor=white"/> <br>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leafxi&show_icon=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leafxi&layout=donut&theme=tokyonight)
 <!--
